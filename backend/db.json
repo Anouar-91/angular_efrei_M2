@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "id": 1, 
+            "questionLabel": "Quelle est la capitale de la france ?"
+        },
+        {
+            "id": 2, 
+            "questionLabel": "Quelle est la capitale de la france ?"
+        },
+        {
+            "id": 3, 
+            "questionLabel": "Quelle est la capitale de la france ?"
+        },
+        {
+            "id": 4, 
+            "questionLabel": "Quelle est la capitale de la france ?"
+        }
+    ]
+}

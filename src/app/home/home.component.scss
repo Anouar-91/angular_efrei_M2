@@ -1,0 +1,15 @@
+.home {
+  @apply flex flex-col items-center justify-center;
+
+  &_title {
+    @apply text-xl font-bold text-center mb-4;
+  }
+
+  &_presentation {
+    @apply text-center;
+  }
+
+  &_quiz-btn {
+    @apply my-8
+  }
+}
